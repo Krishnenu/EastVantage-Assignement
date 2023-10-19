@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-color: azure;
+}
+
+.div-container{
+  background-color: aquamarine;
+  border: 1px solid black;
+  border-radius: 1em;
+  width: 30vw;
+  height: auto;
+  text-align: left;
+  margin-left: 35vw;
+  margin-top: 10vh;  
+}
+
+
+.heading-text{
+  font-size: 1.2em;
+  color: brown;
+  padding-left: 2vw;
+}
+
+.btn-refresh{
+  border: 2px solid rgba(255, 0, 0, 0.463);
+  border-radius: 0.3em;
+  padding: 0.2em;
+  font-size: 1.2em;
+  background-color: azure;
+}
+.btn-container{
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
